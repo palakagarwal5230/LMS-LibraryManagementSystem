@@ -9,7 +9,7 @@
     <li>Only one book is issued to students</li>
     <li>New book is not issued to students those not returned the last book</li>
 </ul>
-
-![Screenshot (410)](https://user-images.githubusercontent.com/43209472/93245763-6557ad80-f7a9-11ea-84a2-0cffc1519431.png)
+<br>
+<img src="https://github.com/palakagarwal5230/LMS-LibraryManagementSystem/blob/main/Screenshots/Screenshot%20(410).png">
 
 <p><h4> Library Management System </h4> is a mini project using c++ build in my second semester </p>
