@@ -10,6 +10,7 @@
     <li>New book is not issued to students those not returned the last book</li>
 </ul>
 <br>
-<img src="https://github.com/palakagarwal5230/LMS-LibraryManagementSystem/blob/main/Screenshots/Screenshot%20(410).png">
+<img height ="700"src="https://github.com/palakagarwal5230/LMS-LibraryManagementSystem/blob/main/Screenshots/Screenshot%20(410).png">
+<br>
 
 <p><h4> Library Management System </h4> is a mini project using c++ build in my second semester </p>
